@@ -1,7 +1,6 @@
 import random
 import time
 import device
-from pushsafer import init, Client
 
 MIN_TEMP = 60
 MAX_TEMP = 78
